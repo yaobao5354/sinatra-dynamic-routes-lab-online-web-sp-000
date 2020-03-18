@@ -18,6 +18,5 @@ class App < Sinatra::Base
     while i < @num
       "#{@phrase}"
     end  
-
   end
 end
